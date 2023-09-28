@@ -1,5 +1,4 @@
 # HIVE Racer
----
 This repository maintains the CAD files for the HIVE Racer small scale autonomous car.
 
 ## License
